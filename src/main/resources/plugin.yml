@@ -1,0 +1,4 @@
+name: PetYourPets
+version: '${project.version}'
+main: me.kermx.petyourpets.PetYourPets
+api-version: 1.17
